@@ -1,0 +1,48 @@
+2011-08-31 22:29:14 Unable to connect to any of the specified MySQL hosts.
+getListByChannel
+ select  `content_id` as id,`content_title` as title,`content_url` as url,`content_keywords` as artist,`content_password` as album,`content_thumb` as thumb  from bus_content where `content_state`!=0 and channel_id=1 order by rand() limit 5
+
+2011-08-31 22:29:18 Unable to connect to any of the specified MySQL hosts.
+getListByChannel
+ select  `content_id` as id,`content_title` as title,`content_url` as url,`content_keywords` as artist,`content_password` as album,`content_thumb` as thumb  from bus_content where `content_state`!=0 and channel_id=1 order by rand() limit 5
+
+2011-08-31 22:29:21 Unable to connect to any of the specified MySQL hosts.
+getListByUserID
+SELECT `content_id` as id,`content_title` as title,`content_url` as url,`content_keywords` as artist,`content_password` as album,`content_thumb` as thumb  FROM `bus_member_mp3` m left join bus_content c on c.content_id=m.mp3_id where m.user_id=4 and  c.content_state!=0 order by rand() limit 5
+
+2011-08-31 22:29:26 Unable to connect to any of the specified MySQL hosts.
+isfaved
+select count(user_id) from bus_member_mp3 where user_id=4 and mp3_id=1541
+
+2011-08-31 22:29:30 Unable to connect to any of the specified MySQL hosts.
+isfaved
+select count(user_id) from bus_member_mp3 where user_id=4 and mp3_id=1541
+
+2011-08-31 23:10:43 查询appkey失败
+SQLite error
+no such table: appkey
+
+2011-08-31 23:13:24 Unable to connect to any of the specified MySQL hosts.
+getListByChannel
+ select  `content_id` as id,`content_title` as title,`content_url` as url,`content_keywords` as artist,`content_password` as album,`content_thumb` as thumb  from bus_content where `content_state`!=0 and channel_id=1 order by rand() limit 5
+
+2011-08-31 23:14:16 查询appkey失败
+SQLite error
+no such table: appkey
+
+2011-08-31 23:15:59 查询频道列表失败
+SQLite error
+no such table: channels
+
+2011-08-31 23:15:59 查询频道列表失败
+SQLite error
+no such table: channels
+
+2011-08-31 23:16:10 查询频道列表失败
+SQLite error
+no such table: channels
+
+2011-08-31 23:23:02 查询appkey失败
+SQLite error
+no such table: appkey
+

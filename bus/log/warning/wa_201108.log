@@ -1,0 +1,54 @@
+2011-08-31 23:10:43 写访问者日志出错
+SQLite error
+no such table: access_record
+appkey: 
+visit ip: 127.0.0.1
+from: direct access
+to: http://localhost:4199/jsapi.ashx?act=getListByChannel&channelid=1&Appkey=9ea0df39-4d6b-4b3b-bac3-604900fb53ce
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.854.0 Safari/535.2
+
+2011-08-31 23:10:46 写访问者日志出错
+SQLite error
+no such table: access_record
+appkey: 
+visit ip: 127.0.0.1
+from: direct access
+to: http://localhost:4199/jsapi.ashx?act=getListByChannel&channelid=1&Appkey=9ea0df39-4d6b-4b3b-bac3-604900fb53ce
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.854.0 Safari/535.2
+
+2011-08-31 23:11:41 写访问者日志出错
+SQLite error
+no such table: access_record
+appkey: 
+visit ip: 127.0.0.1
+from: direct access
+to: http://localhost:4199/jsapi.ashx?act=getListByChannel&channelid=1&Appkey=9ea0df39-4d6b-4b3b-bac3-604900fb53ce
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.854.0 Safari/535.2
+
+2011-08-31 23:14:16 写访问者日志出错
+SQLite error
+no such table: access_record
+appkey: 
+visit ip: 127.0.0.1
+from: direct access
+to: http://localhost:4199/jsapi.ashx?act=getListByChannel&channelid=1&Appkey=9ea0df39-4d6b-4b3b-bac3-604900fb53ce
+UA: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.854.0 Safari/535.2
+
+2011-08-31 23:15:59 写访问者日志出错
+SQLite error
+no such table: access_record
+appkey: 
+visit ip: 127.0.0.1
+from: http://localhost:4199/test.aspx
+to: http://localhost:4199/test.aspx
+UA: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
+2011-08-31 23:16:10 写访问者日志出错
+SQLite error
+no such table: access_record
+appkey: 
+visit ip: 127.0.0.1
+from: http://localhost:4199/test.aspx
+to: http://localhost:4199/jsapi.ashx?act=getchannellist
+UA: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+
